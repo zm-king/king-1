@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的小工具</title>
+</head>
+<body style="margin: 0;"
+    <div>
+        <img alt="小明" src="https://gimg2.baidu.com"width="100px" height="100px">
+    </div>
+    
+</body>
+</html>
